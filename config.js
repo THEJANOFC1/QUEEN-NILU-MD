@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;gn12zR5b#X3DQohNSXWLHQROYMtLdGO82s0MDatne4GTrE8VGebc' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://jayamannepansilu_user:OJ9zNd5ox75UPsDjarzEn1xDxi4HAOVn@dpg-co05v6mct0pc73dp59bg-a.frankfurt-postgres.render.com/jayamannepansilu'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94782033975'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Thejana'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -47,7 +47,7 @@ global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@thejana 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -59,7 +59,7 @@ global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Al
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
-global.MAX_SIZE = '500' // Bot Uloading Max size 
+global.MAX_SIZE = '1500' // Bot Uloading Max size 
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
@@ -76,15 +76,15 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = false
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 
 /* V card */
